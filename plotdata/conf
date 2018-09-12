@@ -1,0 +1,4 @@
+RAW_FILE_NAME = ./plotdata/stardata2.csv
+OUTPUT_DIRECTORY = /output
+
+#csvファイルの要素は、lii,bii,vmag,bv-colorの順番
